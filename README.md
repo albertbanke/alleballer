@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alleballer
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL, data
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently improving on my Python and ML skills
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me here
 
 <!---
